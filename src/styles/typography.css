@@ -1,0 +1,113 @@
+@layer components {
+  .typography-large-title-regular {
+    /* @apply text-heading font-bold leading-tight; */
+    font-family: "SF Pro";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+  }
+  .typography-large-title-regular .emphasized {
+    font-weight: 700;
+  }
+  .typography-title-1-regular {
+    font-family: "SF Pro";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+  .typography-title-1-regular .emphasized {
+    font-weight: 700;
+  }
+  .typography-title-2-regular {
+    font-family: "SF Pro";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .typography-title-2-regular .emphasized {
+    font-weight: 700;
+  }
+  .typography-title-3-regular {
+    font-family: "SF Pro";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .typography-title-3-regular .emphasized {
+    font-weight: 590;
+  }
+  .typography-headline-regular {
+    font-family: "SF Pro";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+  }
+  .typography-headline-regular .emphasized {
+    font-weight: 860;
+  }
+  .typography-body {
+    font-family: "SF Pro";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+  }
+  .typography-body .emphasized {
+    font-weight: 590;
+  }
+  .typography-callout {
+    font-family: "SF Pro";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+  }
+  .typography-callout .emphasized {
+    font-weight: 590;
+  }
+  .typography-subheadline {
+    font-family: "SF Pro";
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+  }
+  .typography-subheadline .emphasized {
+    font-weight: 590;
+  }
+  .typography-footnote {
+    font-family: "SF Pro";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px;
+  }
+  .typography-footnote .emphasized {
+    font-weight: 590;
+  }
+  .typography-caption1 {
+    font-family: "SF Pro";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px;
+  }
+  .typography-caption1 .emphasized {
+    font-weight: 510;
+  }
+  .typography-caption2 {
+    font-family: "SF Pro";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 510;
+    line-height: 13px;
+  }
+  .typography-caption2 .emphasized {
+    font-weight: 590;
+  }
+}
