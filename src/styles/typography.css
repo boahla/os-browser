@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @layer components {
   .typography-large-title-regular {
     /* @apply text-heading font-bold leading-tight; */
